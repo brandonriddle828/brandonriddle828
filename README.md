@@ -1,8 +1,5 @@
 ### Check Me Out!!
 
-
-**brandonriddle828/brandonriddle828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on an application for a small business in my hometown!
 - 🌱 I’m currently learning C#, Javascript, along with many other things!
 - 👯 I’m looking to collaborate on 
